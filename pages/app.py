@@ -10,7 +10,6 @@ from datetime import datetime, timedelta
 import tempfile
 from fpdf import FPDF
 import base64
-import pywhatkit as kit
 import hashlib
 
 # os.makedirs("user_bills", exist_ok=True)
