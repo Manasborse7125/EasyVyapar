@@ -531,7 +531,7 @@ def main():
                     <p>Welcome back, {st.session_state.current_user}! Redirecting to your dashboard...</p>
                 </div>
                 """, unsafe_allow_html=True)
-                st.switch_page("pages/abc.py")
+                st.switch_page("pages/app.py")
                 
             elif st.session_state.login_status == "error":
                 st.markdown("""
