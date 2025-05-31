@@ -8,3 +8,4 @@ scikit-learn
 requests
 seaborn
 fpdf
+plotly
