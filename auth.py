@@ -5,7 +5,7 @@ import os
 from datetime import datetime
 from streamlit.components.v1 import html
 
-# Set page configuration
+#Set page configuration
 st.set_page_config(
     page_title="Bizzence",
     page_icon="🛒",
